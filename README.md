@@ -1,3 +1,5 @@
+The improvement can be found in the src folder inside the Makefile from lines 461 to 499.
+
 This README is just a fast *quick start* document. You can find more detailed documentation at [redis.io](https://redis.io).
 
 What is Redis?
