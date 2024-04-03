@@ -1,0 +1,5 @@
+#define REDIS_GIT_SHA1 "0b343969"
+#define REDIS_GIT_DIRTY "      52"
+#define REDIS_BUILD_ID "Ramis-MacBook-Pro.local-1711680406"
+#include "version.h"
+#define REDIS_BUILD_ID_RAW REDIS_VERSION REDIS_BUILD_ID REDIS_GIT_DIRTY REDIS_GIT_SHA1
